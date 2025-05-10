@@ -40,8 +40,7 @@ TensorFlow
 OpenCV
 Numpy
 Installation
-Clone the repository:
-git clone https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model.git
+
 Install Dependencies:
 pip install notebook
 Run Jupyter Notebook:
